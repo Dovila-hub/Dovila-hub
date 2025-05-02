@@ -5,6 +5,15 @@
 
 ###
 
+<h2 align = "left"> 
+</p>
+   
+📍 Based in Paris, France 
+   
+🎓 Pursuing Master's in Data Science and Ai  at ESILV, France
+
+🔭 Currently learning Rust, Swift, Scrum
+
 ###
 
 <h3 align="left">Languages and Tools:</h3>
