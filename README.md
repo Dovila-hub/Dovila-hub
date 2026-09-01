@@ -8,7 +8,7 @@
    
 📍 Based in Paris, France 
    
-🎓 Pursuing Master's in Data Science and Ai  at ESILV, France
+🎓 Pursuing Master's in Data Science and AI
 
 🔭 Currently learning Rust, Swift, Scrum
 
